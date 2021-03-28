@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+# Omixlab: disciplinas de bioinformática
 
-You can use the [editor on GitHub](https://github.com/omixlab/ufpel-disciplinas-bioinfo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Este repositório centraliza os *links* públicos para os conteúdos das disciplinas de bioinformáticas ministradas no curso de Graduação em Biotecnologia (G-Biotec) e no Programa de Pós-Graduação em Biotecnologia (PPGBiotec).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Bioinformática Avançada (2021)
 
-### Markdown
+* [Aula 1. Introdução ao Linux e ao Google Colab - *video*](https://bbbacad-balancer.ufpel.edu.br/playback/presentation/2.0/playback.html?meetingId=60cf8e81d22c4d65cb607bfdf85c150521b53142-1615806766205)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [Aula 2. Introdução à Linguagem Python - *video*](https://bbbacad-balancer.ufpel.edu.br/playback/presentation/2.0/playback.html?meetingId=60cf8e81d22c4d65cb607bfdf85c150521b53142-1616410615607)
 
-```markdown
-Syntax highlighted code block
+## Engenharia de Software para Bioinformática e Aprendizagem de Máquina (2021)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/omixlab/ufpel-disciplinas-bioinfo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* [Aula 1. Introdução à Engenharia de Software - *slides*](https://docs.google.com/presentation/d/1__XwssBc_u6xrLwoG7ADwfzE0pzfZ1pJeWybYL2amRs/edit?usp=sharing)
