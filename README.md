@@ -22,6 +22,6 @@ Este repositório centraliza os *links* públicos para os conteúdos das discipl
 
 * [video da aula](https://docs.google.com/presentation/d/1__XwssBc_u6xrLwoG7ADwfzE0pzfZ1pJeWybYL2amRs/edit?usp=sharing)
 
-### Aula 2. Versionamento de codigo com Git
+### Aula 2. Versionamento de código com Git
 
 * [video da aula](https://bbbacad-balancer.ufpel.edu.br/playback/presentation/2.0/playback.html?meetingId=77b25011d73c311672804485376bd8fe7c4d4f2d-1616775456545)
