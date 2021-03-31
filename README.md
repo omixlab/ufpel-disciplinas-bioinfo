@@ -16,6 +16,11 @@ Este repositório centraliza os *links* públicos para os conteúdos das discipl
 * [video da aula](https://bbbacad-balancer.ufpel.edu.br/playback/presentation/2.0/playback.html?meetingId=60cf8e81d22c4d65cb607bfdf85c150521b53142-1616410615607)
 * [Material de Apoio: *Curso Python Básico (Solyd)*](https://solyd.com.br/treinamentos/python-basico/)
 
+### Aula 3. Python para Análise de Dados 
+
+* [video da aula](https://bbbacad-balancer.ufpel.edu.br/playback/presentation/2.0/playback.html?meetingId=60cf8e81d22c4d65cb607bfdf85c150521b53142-1617017062405)
+* [Material de Apoio: *Data Analysis with Python (FreeCodeCamp)*](https://www.youtube.com/watch?v=GPVsHOlRBBI)
+
 ## Engenharia de Software para Bioinformática e Aprendizagem de Máquina (2021)
 
 ### Aula 1. Introduçãoà Engenharia de Software
